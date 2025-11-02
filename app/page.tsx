@@ -1,29 +1,6 @@
 export default function Home() {
     return (
         <div className="min-h-screen bg-gradient-to-b from-amber-50 via-white to-amber-50/30">
-            {/* Navigation Header */}
-            <nav className="w-full px-6 py-5 bg-white/80 backdrop-blur-md border-b border-amber-900/20 sticky top-0 z-50 shadow-sm">
-                <div className="max-w-7xl mx-auto flex items-center justify-between">
-                    <div className="text-2xl font-bold text-gray-900 tracking-tight">
-                        Hangout
-                    </div>
-                    <div className="flex items-center gap-4">
-                        <a
-                            href="/login"
-                            className="px-5 py-2.5 text-gray-700 font-medium hover:text-amber-900 transition-all duration-200 rounded-lg hover:bg-amber-50"
-                        >
-                            Login
-                        </a>
-                        <a
-                            href="/register"
-                            className="px-6 py-2.5 bg-amber-900 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:bg-amber-800 transition-all duration-200 hover:-translate-y-0.5"
-                        >
-                            Register
-                        </a>
-                    </div>
-                </div>
-            </nav>
-
             {/* Hero Section */}
             <main className="max-w-7xl mx-auto px-6 py-20 md:py-24">
                 <div className="text-center mb-20">
