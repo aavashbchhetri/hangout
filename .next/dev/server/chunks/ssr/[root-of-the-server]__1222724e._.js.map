@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/arun/Documents/hangout/app/page.tsx"],"sourcesContent":["export default function Dashboard() {\n    return (\n    <div>\n    <div className = \"flex justify-center items-center h-screen text-4xl\">\n        HangOut!\n    </div>\n    </div>\n    )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACA,8OAAC;kBACD,cAAA,8OAAC;YAAI,WAAY;sBAAqD;;;;;;;;;;;AAK1E","debugId":null}}]
+}

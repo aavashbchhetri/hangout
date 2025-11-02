@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/arun/Documents/hangout/app/loading.tsx"],"sourcesContent":["export default function Loading() {\n    return (\n        <div className=\"flex items-center justify-center min-h-screen\">\n            <span className=\"animate-pulse text-lg\">Loading…</span>\n        </div>\n    )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,8OAAC;QAAI,WAAU;kBACX,cAAA,8OAAC;YAAK,WAAU;sBAAwB;;;;;;;;;;;AAGpD","debugId":null}}]
+}
